@@ -10,8 +10,8 @@ Este repositorio contiene los materiales del curso de Robótica Móvil, incluyen
 ## Paradigmas de Robótica Móvil
 - Paradigmas de Control
 
-## Conceptos Básicos
-### Tipos de Locomoción y Sensores
+
+## Tipos de Locomoción y Sensores
 - Locomoción
 - Sensores
 
@@ -23,12 +23,8 @@ Este repositorio contiene los materiales del curso de Robótica Móvil, incluyen
 
 ## Localización
 - Filtros Discretos
-
-### Filtros de Partículas y Filtro de Kalman
 - Filtros de Partículas
 - Filtro de Kalman
-
-### Filtros EKF y UKF
 - Filtro EKF
 - Filtro UKF
 
@@ -38,10 +34,7 @@ Este repositorio contiene los materiales del curso de Robótica Móvil, incluyen
 
 ## SLAM
 - SLAM EKF
-- FastSLAM
-
-
-### SLAM basado en Grillas de Ocupación y Grafos
+- FastSLA
 - SLAM basado en Grillas de Ocupación
 - SLAM basado en Grafos
 
@@ -52,12 +45,11 @@ Este repositorio contiene los materiales del curso de Robótica Móvil, incluyen
 ## Planeamiento de Trayectorias
 - Planeamiento de Trayectorias
 
-### Tarea
-- TP 5 - ICP y Planeamiento de Trayectorias
 
 ## Exploración
-### Exploración Multirobot y Basada en Información
 - Exploración Multirobot
 - Exploración Basada en Información
 
 ### TP Especial
+- Incluye todos los temas del curso y mas, se agrego Hybrid A* y SLAM con grafos.
+- Se simulo en MATLAB y se probo en un robot tipo ROOMBA en un entorno fisico.
